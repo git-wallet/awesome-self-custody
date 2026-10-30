@@ -34,6 +34,7 @@
 ## Security & avoiding scams
 - [Wallet Security Checklist](https://github.com/git-wallet/wallet-security-checklist) — day-to-day best practices.
 - [Ledger Academy: crypto security](https://www.ledger.com/academy/category/safety) — phishing, approvals, scams.
+- [CryptoStrapon Scam Detector](https://cryptostrapon.com/scam-detector) — free, no sign-up check of a suspicious link, wallet or token address, or message before you sign or send.
 - **Golden rule:** no legitimate wallet or support will *ever* ask for your seed phrase or private keys.
 
 ## Learn
